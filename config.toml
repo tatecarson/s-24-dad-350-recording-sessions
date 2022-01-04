@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "home"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
@@ -36,7 +36,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Course Name"
+    title = "DAD 350 Recording Sessions"
     subtitle = "A simple, retro theme for Hugo"
     owner = "Tate Carson"
     keywords = ""
@@ -50,7 +50,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Course name"
+      logoText = "DAD 350 Recording Sessions"
       logoHomeLink = "/"
 
     [languages.en.menu]
