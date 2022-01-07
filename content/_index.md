@@ -1,7 +1,7 @@
 ---
-title: "Course Title"
+title: "DAD 350 Recording Sessions"
 ---
 
-![placeholder.png](https://loremflickr.com/320/240)
+![kate bush at abbey road](abbeyroad_photo.jpg)
 
-Veniam anim eiusmod culpa sunt incididunt sint. Anim ex non ad labore ut in velit in non culpa aliquip. Fugiat incididunt esse eu labore ipsum officia. Tempor proident velit duis nostrud laborum reprehenderit laboris ullamco aliqua commodo sint. Nisi laborum sint ex est minim mollit irure veniam commodo ad. Cupidatat id pariatur id veniam non qui elit voluptate non officia.
+Students learn technical skills of the recording studio and use studio sessions extensively under real world situations, taking responsibility for most studio functions, such as engineering, producer, studio tech, and studio manager.

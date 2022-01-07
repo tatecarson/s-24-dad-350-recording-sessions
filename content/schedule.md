@@ -6,44 +6,74 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 
+# Outline
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DjLvraCQiVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Week 1 1/13
 
-## Monday
+- Studio introduction - gear overview
+- One performer, no mics
+- Brainstorming future sessions
 
-## Wednesday
+# Week 2 1/20
 
-## Friday
+- one performer, one mic
 
-# Week 2
+# Week 3 1/27
 
-just some more stuff
+- one performer, one mic
 
-# Week 3
+# Week 4 2/3
 
-# Week 4
+- one performer, one mic
+- Project 1 due
 
-# Week 5
+# Week 5 2/10
 
-# Week 6
+- multiple performers, one mic
 
-# Week 7
+# Week 6 2/17
 
-# Week 8
+- multiple mics, one performer
 
-# Week 9
+# Week 7 2/24
 
-# Week 10
+- multiple mics, one performer
 
-# Week 11
+# Week 8 3/3
 
-# Week 12
+- multiple mics, one performer
+- Project 2 due
 
-# Week 13
+# Week 9 3/10
 
-# Week 14
+- multiple mics, multiple performers
 
-# Week 15
+# Week 10 3/17
 
-# Week 16
+- Spring break - no class
+
+# Week 11 3/24
+
+- multiple mics, multiple performers
+
+# Week 12 3/31
+
+- multiple mics, multiple performers
+- Project 3 due
+
+# Week 13 4/7
+
+- multiple mics, multiple performers
+- Begin work on final project
+
+# Week 14 4/14
+
+- multiple mics, multiple performers
+
+# Week 15 4/21
+
+- multiple mics, multiple performers
+
+# Week 16 4/28
+
+- multiple mics, multiple performers
