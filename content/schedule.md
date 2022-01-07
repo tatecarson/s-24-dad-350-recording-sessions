@@ -11,11 +11,13 @@ author: ""
 # Week 1 1/13
 
 - Studio introduction - gear overview
-- One performer, no mics
+- Overview of studio signal flow
 - Brainstorming future sessions
+- One performer, no mics
 
 # Week 2 1/20
 
+- Detailed overview of microphones and characteristics
 - one performer, one mic
 
 # Week 3 1/27
