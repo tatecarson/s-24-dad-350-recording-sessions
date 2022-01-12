@@ -6,8 +6,6 @@ author: ""
 
 {{< toc >}}
 
-# Outline
-
 # Week 1 1/13
 
 - Studio introduction - gear overview
