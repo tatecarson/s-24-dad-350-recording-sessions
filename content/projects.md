@@ -22,4 +22,4 @@ Make a recording with 2 or more performers
 
 # Project 4 - Final project
 
-Make a reccording with 4 or more performers, this can include overdubs.
+Make a recording with 4 or more performers, this can include overdubs.
