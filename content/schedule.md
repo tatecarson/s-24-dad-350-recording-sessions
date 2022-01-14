@@ -17,6 +17,8 @@ author: ""
 
 - Detailed overview of microphones and characteristics
 - one performer, one mic
+  - Jake - acoustic guitar
+  - Kinsey - flute
 
 # Week 3 1/27
 
