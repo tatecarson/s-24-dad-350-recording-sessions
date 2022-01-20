@@ -15,7 +15,7 @@ author: ""
 
 # Week 2 1/20
 
-- Detailed overview of microphones and characteristics
+- [Guessing a Mic Position](../posts/week-2)
 - one performer, one mic
   - Jake - acoustic guitar
   - Kinsey - flute
