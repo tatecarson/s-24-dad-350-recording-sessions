@@ -18,20 +18,23 @@ author: ""
 - [Guessing a Mic Position](../posts/week-2)
 - one performer, one mic
   - Jake - acoustic guitar
-  - Kinsey - flute
 
 # Week 3 1/27
 
+- talk about [Project 1](../projects/#project-1)
+- talk about previous recordings
+- Kinsey - flute
 - one performer, one mic
 
 # Week 4 2/3
 
+- voice
 - one performer, one mic
-- Project 1 due
 
 # Week 5 2/10
 
 - multiple performers, one mic
+- Project 1 due
 
 # Week 6 2/17
 
