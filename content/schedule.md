@@ -29,11 +29,14 @@ author: ""
 # Week 4 2/3
 
 - voice
+  - [Recordings](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EpR8FoqOH9hFq3r1CkEnugkBNcLYun5X-awTdjuIuhO3gw?e=yUdF8G)
 - one performer, one mic
 
 # Week 5 2/10
 
+- Male Voice
 - multiple performers, one mic
+  - "Worldizing" Sounds - what different locations in the building can we record sounds in to change the character?
 - Project 1 due
 
 # Week 6 2/17
