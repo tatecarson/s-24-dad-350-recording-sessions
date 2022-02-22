@@ -42,19 +42,23 @@ author: ""
 # Week 6 2/17
 
 - multiple mics, one performer
+- Guitar
 
 # Week 7 2/24
 
 - multiple mics, one performer
+- Piano
 
 # Week 8 3/3
 
 - multiple mics, one performer
+- Drums!
 - Project 2 due
 
 # Week 9 3/10
 
 - multiple mics, multiple performers
+- Kyle and Tate
 
 # Week 10 3/17
 
