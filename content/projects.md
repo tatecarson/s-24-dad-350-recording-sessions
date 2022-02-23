@@ -14,7 +14,9 @@ Make sure the recording is made with appropriate levels, somewhere around -10 dB
 
 # Project 2
 
-Multiple mics, one performer
+Use the same requirements from the first project, but now with multiple mics on one performer. Include a paragraph stating your chosen mics and position. **Include a picture of your mic setup.** Describe why you chose this mic and position in terms of sound recording.
+
+Pick your favorite multi-mic technique that we've gone over in class. See [this YouTube video](https://www.youtube.com/watch?v=I6Fann2gMSs) for a review on stereo mic setups. Remember, you can also use mixed microphone types (small and large diaphragm condensers) to pickup the unique qualities of different parts of the instrument.
 
 # Project 3
 
