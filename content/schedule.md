@@ -47,18 +47,18 @@ author: ""
 # Week 7 2/24
 
 - multiple mics, one performer
-- Intro [Project 2](../projects/#project-2) - Due on 3/10
+- Intro [Project 2](../projects/#project-2) - Due on 3/14
 - Piano
 
 # Week 8 3/3
 
 - multiple mics, one performer
-- Drums!
+- Piano
 
 # Week 9 3/10
 
-- Project 2 due
 - multiple mics, multiple performers
+- Drums!
 - Kyle and Tate
 
 # Week 10 3/17
@@ -67,16 +67,17 @@ author: ""
 
 # Week 11 3/24
 
+- Project 2 due
 - multiple mics, multiple performers
 
 # Week 12 3/31
 
 - multiple mics, multiple performers
-- Project 3 due
 
 # Week 13 4/7
 
 - multiple mics, multiple performers
+- Project 3 due
 - Begin work on final project
 
 # Week 14 4/14
