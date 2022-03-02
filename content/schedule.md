@@ -53,7 +53,18 @@ author: ""
 # Week 8 3/3
 
 - multiple mics, one performer
-- Piano
+- Piano - Prepared Piano
+- Performance examples
+  - [Nahre Sol's video](https://www.youtube.com/watch?v=Yi_iefmmuu4)
+  - Kelly Moran - more modern prepared piano
+    - [Halogen](https://www.youtube.com/watch?v=H9BWgybMsLs)
+- Preparation techniques
+  - Pluck string with guitar pick
+  - Surface Preparations: paper, aluminum foil, felt, card stock, cardboard, plastic, rubber strips
+    - experiment with each on the same strings, then variations on different registers
+  - String preparations: bolts, screws
+    - We're using brass bolts and screws because the strings are made of steel, so brass won't damage the strings
+  - Resources: [Beyond the 88: A No-Fear Beginner’s Guide to Preparing the Piano](https://nmbx.newmusicusa.org/beyond-the-88-a-no-fear-beginners-guide/), [How to Prepare a Piano with Stephen Drury](https://www.youtube.com/watch?v=myXAUEuECqQ)
 
 # Week 9 3/10
 
