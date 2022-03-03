@@ -47,30 +47,19 @@ author: ""
 # Week 7 2/24
 
 - multiple mics, one performer
-- Intro [Project 2](../projects/#project-2) - Due on 3/14
 - Piano
 
 # Week 8 3/3
 
+- Intro [Project 2](../projects/#project-2) - Due on 3/21
 - multiple mics, one performer
 - Piano - Prepared Piano
-- Performance examples
-  - [Nahre Sol's video](https://www.youtube.com/watch?v=Yi_iefmmuu4)
-  - Kelly Moran - more modern prepared piano
-    - [Halogen](https://www.youtube.com/watch?v=H9BWgybMsLs)
-- Preparation techniques
-  - Pluck string with guitar pick
-  - Surface Preparations: paper, aluminum foil, felt, card stock, cardboard, plastic, rubber strips
-    - experiment with each on the same strings, then variations on different registers
-  - String preparations: bolts, screws
-    - We're using brass bolts and screws because the strings are made of steel, so brass won't damage the strings
-  - Resources: [Beyond the 88: A No-Fear Beginner’s Guide to Preparing the Piano](https://nmbx.newmusicusa.org/beyond-the-88-a-no-fear-beginners-guide/), [How to Prepare a Piano with Stephen Drury](https://www.youtube.com/watch?v=myXAUEuECqQ)
+- Pick one person to document the session
 
 # Week 9 3/10
 
 - multiple mics, multiple performers
 - Drums!
-- Kyle and Tate
 
 # Week 10 3/17
 
@@ -79,11 +68,13 @@ author: ""
 # Week 11 3/24
 
 - Project 2 due
+- Kyle and Tate
 - multiple mics, multiple performers
 
 # Week 12 3/31
 
 - multiple mics, multiple performers
+- Tate and Peter?
 
 # Week 13 4/7
 
