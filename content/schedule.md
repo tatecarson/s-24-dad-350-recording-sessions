@@ -12,6 +12,8 @@ author: ""
 - Overview of studio signal flow
 - Mic It! - Audio Basics
 - Brainstorming future sessions
+- [Class Wiki](https://github.com/DSU-Digital-Sound-Design/s-23-dad-350-recording-sessions/wiki) for session notes.
+  - Sign up for a GitHub account and I'll add you as a collaborator.
 - One performer, no mics
 
 > Read: Brian Eno _The Studio as a Compositional Tool_
