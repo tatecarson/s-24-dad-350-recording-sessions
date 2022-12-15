@@ -16,8 +16,10 @@ author: ""
   - Each week, whoever is responsible for documentation will add that here. You will be able to return to these pages and listen to the recordings and see images of the recording setups we've made throughout the semester.
 - One performer, no mics
 
-> Read: Brian Eno _The Studio as a Compositional Tool_
-> Read: [Studio as a musical instrument](https://www.ableton.com/en/blog/studio-as-an-instrument-part-1/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
+> Homework - Due next class
+>
+> - `Read`: Brian Eno _The Studio as a Compositional Tool_
+> - `Read`: [Studio as a musical instrument](https://www.ableton.com/en/blog/studio-as-an-instrument-part-1/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
 
 <!--
 # Week 2 (1/16)
