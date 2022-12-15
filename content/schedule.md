@@ -36,6 +36,7 @@ author: ""
 - Mic It! - EQ Basics
 - Mic It! - The Effect of Microphone Position
 - talk about previous recordings
+- Preamps?
 
 > Quiz 1 - Microphones
 > Read: [Studio as a musical instrument 3](https://www.ableton.com/en/blog/studio-as-an-instrument-part-3/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
@@ -67,10 +68,16 @@ author: ""
 - Mic It! - Drum Miking
 - Intro [Project 2](../projects/#project-2) - Due on X
 - multiple mics, one performer
+- Create a practice session plan
+- Introduce session documentation for more complex session:
+  - https://ocw.mit.edu/courses/21m-380-music-and-technology-recording-techniques-and-audio-production-fall-2016/resources/mit21m_380f16_assn_sr2/
+  - Pick teams and positions for the next few weeks
+
 
 # Week 9 (3/6)
 
 - multiple mics, multiple performers
+- These sessions will require more detailed planning and documentation
 
 # Week 10 (3/13)
 
@@ -99,4 +106,6 @@ author: ""
 
 # Week 16 (4/24)
 
-> Exam - Regularly scheduled class time Thursday, May 4th, 5 - 7:30 pm -->
+> Exam - Regularly scheduled class time Thursday, May 4th, 5 - 7:30 pm
+> Exam will require a recording and detailed session plan + session documentation
+ -->
