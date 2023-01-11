@@ -8,17 +8,19 @@ author: ""
 
 # Week 1 (1/9)
 
-- Studio introduction - gear overview
-- Overview of studio signal flow
-- Mic It! - Audio Basics
-- Brainstorming future sessions
+- Syllabus
+- [Studio Overview](https://sites.google.com/view/charmstudios/studio-documentation?authuser=0), also the [Discord docs list](https://discord.com/channels/533402782385045524/533404837443010579).
 - [Class Notebook](https://dakotastateuniversity-my.sharepoint.com/:o:/g/personal/tate_carson_dsu_edu/EpqToghGiLlHs8uPcTDLZNUBTtNnx9OYDQkXYAtyt-QnYQ?e=VXcjaT) for session notes.
   - Each week, whoever is responsible for documentation will add that here. You will be able to return to these pages and listen to the recordings and see images of the recording setups we've made throughout the semester.
-- One performer, no mics
+- Brainstorming future sessions - who wants to play in future weeks?
+- Mic It! - [Audio Basics](../lectures/week-1/)
+  - [Audio Resources](https://routledgetextbooks.com/textbooks/9780367470364/audio_files.php)
+- One performer, no mics - recording the synth?
+
+<!-- TODO: assign this reading in d2l -->
 
 > Homework - Due next class
 >
-> - `Read`: Brian Eno _The Studio as a Compositional Tool_
 > - `Read`: [Studio as a musical instrument](https://www.ableton.com/en/blog/studio-as-an-instrument-part-1/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
 
 <!--
