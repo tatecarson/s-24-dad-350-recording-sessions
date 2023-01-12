@@ -10,7 +10,7 @@ author: ""
 
 - Syllabus
 - [Studio Overview](https://sites.google.com/view/charmstudios/studio-documentation?authuser=0), also the [Discord docs list](https://discord.com/channels/533402782385045524/533404837443010579).
-- [Class Notebook](https://dakotastateuniversity-my.sharepoint.com/:o:/g/personal/tate_carson_dsu_edu/EpqToghGiLlHs8uPcTDLZNUBTtNnx9OYDQkXYAtyt-QnYQ?e=VXcjaT) for session notes.
+- [Class Notebook](https://dakotastateuniversity-my.sharepoint.com/:o:/g/personal/tate_carson_dsu_edu/EpqToghGiLlHs8uPcTDLZNUBcDtK9PetAHIuySaK7zgoDg) for session notes.
   - Each week, whoever is responsible for documentation will add that here. You will be able to return to these pages and listen to the recordings and see images of the recording setups we've made throughout the semester.
 - Brainstorming future sessions - who wants to play in future weeks?
 - Mic It! - [Audio Basics](../lectures/week-1/)
