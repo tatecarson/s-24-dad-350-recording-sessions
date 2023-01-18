@@ -23,25 +23,28 @@ author: ""
 >
 > - `Read`: [Studio as a musical instrument](https://www.ableton.com/en/blog/studio-as-an-instrument-part-1/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
 
-<!--
 # Week 2 (1/16)
+
+- Decide on [team roles](https://dakotastateuniversity-my.sharepoint.com/:o:/r/personal/tate_carson_dsu_edu/Documents/Class%20Notebooks/DAD%20350%20-%20Recording%20Sessions?d=w08a2939a884647b9b3cb8f7130cb64d5&csf=1&web=1&e=QXnSyu) for recording bass next week.
+- [Session planning template](https://dakotastateuniversity-my.sharepoint.com/:o:/r/personal/tate_carson_dsu_edu/Documents/Class%20Notebooks/DAD%20350%20-%20Recording%20Sessions?d=w08a2939a884647b9b3cb8f7130cb64d5&csf=1&web=1&e=QXnSyu)
+- [Session documentation template](https://cambridge-mt.com/rs2/lmp/acoustic-piano-01/)
+- Recording direct
+  - Jacob's synths
+
+<!--
+# Week 3 (1/23)
 
 - [Guessing a Mic Position](../posts/week-2)
 - Mic It! - "Good Sound"
 - Mic It! - About Microphones Part 1
 - one performer, one mic
-
-> Read and respond: [Microphone - Reading Assignment](x-devonthink-item://1D4EDC59-F078-4B18-A043-93F7E327900E)
-> Read: [Studio as a musical instrument 2](https://www.ableton.com/en/blog/studio-as-an-instrument-part-2/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
-
-# Week 3 (1/23)
-
 - talk about [Project 1](../projects/#project-1)
 - Mic It! - EQ Basics
 - Mic It! - The Effect of Microphone Position
 - talk about previous recordings
 - Preamps?
 
+> Read and respond: [Microphone - Reading Assignment](x-devonthink-item://1D4EDC59-F078-4B18-A043-93F7E327900E)
 > Quiz 1 - Microphones
 > Read: [Studio as a musical instrument 3](https://www.ableton.com/en/blog/studio-as-an-instrument-part-3/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
 
