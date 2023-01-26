@@ -31,9 +31,12 @@ author: ""
 - Recording direct
   - Jacob's synths
 
-<!--
 # Week 3 (1/23)
 
+- Recording bass
+  - Use the ReaTune - Tuner to tune before recording
+
+<!--
 - [Guessing a Mic Position](../posts/week-2)
 - Mic It! - "Good Sound"
 - Mic It! - About Microphones Part 1
@@ -46,8 +49,9 @@ author: ""
 
 > Read and respond: [Microphone - Reading Assignment](x-devonthink-item://1D4EDC59-F078-4B18-A043-93F7E327900E)
 > Quiz 1 - Microphones
-> Read: [Studio as a musical instrument 3](https://www.ableton.com/en/blog/studio-as-an-instrument-part-3/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
+> Read: [Studio as a musical instrument 3](https://www.ableton.com/en/blog/studio-as-an-instrument-part-3/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related) -->
 
+<!--
 # Week 4 (1/30)
 
 - voice
