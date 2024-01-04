@@ -6,7 +6,7 @@ author: ""
 
 {{< toc >}}
 
-# Week 1 (1/9)
+# Week 1 (1/8)
 
 - Syllabus
 - [Studio Overview](https://sites.google.com/view/charmstudios/studio-documentation?authuser=0), also the [Discord docs list](https://discord.com/channels/533402782385045524/533404837443010579).
@@ -17,13 +17,11 @@ author: ""
   - [Audio Resources](https://routledgetextbooks.com/textbooks/9780367470364/audio_files.php)
 - One performer, no mics - recording the synth?
 
-<!-- TODO: assign this reading in d2l -->
-
-> Homework - Due next class
+<!-- > Homework - Due next class
 >
 > - `Read`: [Studio as a musical instrument](https://www.ableton.com/en/blog/studio-as-an-instrument-part-1/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
 
-# Week 2 (1/16)
+# Week 2 (1/15)
 
 - Decide on [team roles](https://dakotastateuniversity-my.sharepoint.com/:o:/r/personal/tate_carson_dsu_edu/Documents/Class%20Notebooks/DAD%20350%20-%20Recording%20Sessions?d=w08a2939a884647b9b3cb8f7130cb64d5&csf=1&web=1&e=QXnSyu) for recording bass next week.
 - [Session planning template](https://dakotastateuniversity-my.sharepoint.com/:o:/r/personal/tate_carson_dsu_edu/Documents/Class%20Notebooks/DAD%20350%20-%20Recording%20Sessions?d=w08a2939a884647b9b3cb8f7130cb64d5&csf=1&web=1&e=QXnSyu)
@@ -31,10 +29,10 @@ author: ""
 - Recording direct
   - Jacob's synths
 
-# Week 3 (1/23)
+# Week 3 (1/22)
 
 - Recording bass
-  - Use the ReaTune - Tuner to tune before recording
+  - Use the ReaTune - Tuner to tune before recording -->
 
 <!--
 - [Guessing a Mic Position](../posts/week-2)
@@ -52,29 +50,29 @@ author: ""
 > Read: [Studio as a musical instrument 3](https://www.ableton.com/en/blog/studio-as-an-instrument-part-3/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related) -->
 
 <!--
-# Week 4 (1/30)
+# Week 4 (1/29)
 
 - voice
 - Mic It! - Recording Vocals
 
-# Week 5 (2/6)
+# Week 5 (2/5)
 
 - Male Voice
 - Project 1 due
 
-# Week 6 (2/13)
+# Week 6 (2/12)
 
 - multiple mics, one performer
 - Mic It! - Stereo Imaging
 
-# Week 7 (2/20)
+# Week 7 (2/19)
 
 - Mic It! - Stereo Microphone Arrays
 - multiple mics, one performer
 - Introduce [Session Plan](x-devonthink-item://AEF29D46-6D95-4FC2-B79B-6E83882F4CA1). Starting in week 9, we'll have groups of musicians come in to record. You'll work in groups to run the session: producer, studio tech, and engineer. You'll create and execute the plan for your scheduled week as a group.
 - Read [Studio Tips and Tricks](x-devonthink-item://303C627A-943E-4B30-8DCD-95E9D2AD4838) as preparation for your session. Be ready to answer some questions from [recording-plan-discussion](x-devonthink-item://19080DDB-F977-49C4-90A2-5E27D1332CE1) next week.
 
-# Week 8 (2/27)
+# Week 8 (2/26)
 
 - Mic It! - Drum Miking
 - Intro [Project 2](../projects/#project-2) - Due on X
@@ -85,37 +83,37 @@ author: ""
   - Pick teams and positions for the next few weeks
 
 
-# Week 9 (3/6)
+# Week 9 (3/4)
 
 - multiple mics, multiple performers
 - These sessions will require more detailed planning and documentation
 
-# Week 10 (3/13)
+# Week 10 (3/11)
 
 - Spring Break - No Classes
 
-# Week 11 (3/20)
+# Week 11 (3/18)
 
 - Project 2 due
 - multiple mics, multiple performers
 
-# Week 12 (3/27)
+# Week 12 (3/25)
 
 - multiple mics, multiple performers
 
-# Week 13 (4/3)
+# Week 13 (4/1)
 
 - multiple mics, multiple performers
 
-# Week 14 (4/10)
+# Week 14 (4/8)
 
 - multiple mics, multiple performers
 
-# Week 15 (4/17)
+# Week 15 (4/15)
 
 - multiple mics, multiple performers
 
-# Week 16 (4/24)
+# Week 16 (4/22)
 
 > Exam - Regularly scheduled class time Thursday, May 4th, 5 - 7:30 pm
 > Exam will require a recording and detailed session plan + session documentation
