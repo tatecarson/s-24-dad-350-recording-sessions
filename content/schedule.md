@@ -10,16 +10,15 @@ author: ""
 
 - Syllabus
 - [Studio Overview](https://sites.google.com/view/charmstudios/studio-documentation?authuser=0), also the [Discord docs list](https://discord.com/channels/533402782385045524/533404837443010579).
-- [Class Notebook](https://dakotastateuniversity-my.sharepoint.com/:o:/g/personal/tate_carson_dsu_edu/EpqToghGiLlHs8uPcTDLZNUBcDtK9PetAHIuySaK7zgoDg) for session notes.
-  - Each week, whoever is responsible for documentation will add that here. You will be able to return to these pages and listen to the recordings and see images of the recording setups we've made throughout the semester.
+- [Class Notebook](https://dakotastateuniversity-my.sharepoint.com/:o:/r/personal/tate_carson_dsu_edu/Documents/DAD%20350%20-%20S24?d=w40b321653b39428dadc9a338f1031ae4&csf=1&web=1&e=P11XXk) for session notes.
+  - Each week, whoever is responsible for documentation will add that here. You will be able to return to these pages listen to the recordings and see images of the recording setups we've made throughout the semester.
 - Brainstorming future sessions - who wants to play in future weeks?
 - Mic It! - [Audio Basics](../lectures/week-1/)
   - [Audio Resources](https://routledgetextbooks.com/textbooks/9780367470364/audio_files.php)
 - One performer, no mics - recording the synth?
 
 <!-- > Homework - Due next class
->
-> - `Read`: [Studio as a musical instrument](https://www.ableton.com/en/blog/studio-as-an-instrument-part-1/?mtm_campaign=related-recommendation&mtm_source=blog&mtm_medium=related)
+
 
 # Week 2 (1/15)
 
