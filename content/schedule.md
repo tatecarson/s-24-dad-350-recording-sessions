@@ -17,17 +17,16 @@ author: ""
   - [Audio Resources](https://routledgetextbooks.com/textbooks/9780367470364/audio_files.php)
 - One performer, no mics - recording the synth?
 
-<!-- > Homework - Due next class
 
 
 # Week 2 (1/15)
 
-- Decide on [team roles](https://dakotastateuniversity-my.sharepoint.com/:o:/r/personal/tate_carson_dsu_edu/Documents/Class%20Notebooks/DAD%20350%20-%20Recording%20Sessions?d=w08a2939a884647b9b3cb8f7130cb64d5&csf=1&web=1&e=QXnSyu) for recording bass next week.
-- [Session planning template](https://dakotastateuniversity-my.sharepoint.com/:o:/r/personal/tate_carson_dsu_edu/Documents/Class%20Notebooks/DAD%20350%20-%20Recording%20Sessions?d=w08a2939a884647b9b3cb8f7130cb64d5&csf=1&web=1&e=QXnSyu)
-- [Session documentation template](https://cambridge-mt.com/rs2/lmp/acoustic-piano-01/)
+- What should we record next class
+- pick roles for next week
 - Recording direct
   - Jacob's synths
 
+<!-- 
 # Week 3 (1/22)
 
 - Recording bass
